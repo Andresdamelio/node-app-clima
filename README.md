@@ -34,6 +34,6 @@ node app --direccion "lugar"
 ## Ejemplo
 
 ```
-node app -d "Madrir" o 
-node app --direccion "Madrir"
+node app -d "Madrid" o 
+node app --direccion "Madrid"
 ```
